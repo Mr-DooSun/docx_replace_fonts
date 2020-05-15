@@ -1,0 +1,3037 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:document xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink" xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" mc:Ignorable="w14 w15 w16se w16cid wp14">
+    <w:body>
+        <w:p w14:paraId="49730D58" w14:textId="505B25DB" w:rsidR="00F84E30" w:rsidRDefault="00F84E30" w:rsidP="000F5247">
+            <w:pPr>
+                <w:widowControl w:val="0" />
+                <w:autoSpaceDE w:val="0" />
+                <w:autoSpaceDN w:val="0" />
+                <w:adjustRightInd w:val="0" />
+                <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+                <w:jc w:val="both" />
+                <w:rPr>
+                    <w:rFonts w:ascii="맑은 고딕" w:eastAsia="맑은 고딕" w:hAnsi="맑은 고딕" w:cs="맑은 고딕" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="맑은 고딕" w:eastAsia="맑은 고딕" w:hAnsi="맑은 고딕" w:cs="맑은 고딕" w:hint="eastAsia" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t xml:space="preserve">볼드 글씨는 히브리어 </w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:proofErr w:type="gramStart" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="맑은 고딕" w:eastAsia="맑은 고딕" w:hAnsi="맑은 고딕" w:cs="맑은 고딕" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>bwhebb</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="맑은 고딕" w:eastAsia="맑은 고딕" w:hAnsi="맑은 고딕" w:cs="맑은 고딕" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t xml:space="preserve"> </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="맑은 고딕" w:eastAsia="맑은 고딕" w:hAnsi="맑은 고딕" w:cs="맑은 고딕" w:hint="eastAsia" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>입니다</w:t>
+            </w:r>
+            <w:proofErr w:type="gramEnd" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="맑은 고딕" w:eastAsia="맑은 고딕" w:hAnsi="맑은 고딕" w:cs="맑은 고딕" w:hint="eastAsia" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>.</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="맑은 고딕" w:eastAsia="맑은 고딕" w:hAnsi="맑은 고딕" w:cs="맑은 고딕" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t xml:space="preserve"> </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="맑은 고딕" w:eastAsia="맑은 고딕" w:hAnsi="맑은 고딕" w:cs="맑은 고딕" w:hint="eastAsia" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>이를</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="맑은 고딕" w:eastAsia="맑은 고딕" w:hAnsi="맑은 고딕" w:cs="맑은 고딕" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t xml:space="preserve"> SBL Hebrew </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="맑은 고딕" w:eastAsia="맑은 고딕" w:hAnsi="맑은 고딕" w:cs="맑은 고딕" w:hint="eastAsia" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>로 바꾸는 것입니다</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="맑은 고딕" w:eastAsia="맑은 고딕" w:hAnsi="맑은 고딕" w:cs="맑은 고딕" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t xml:space="preserve">. </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="맑은 고딕" w:eastAsia="맑은 고딕" w:hAnsi="맑은 고딕" w:cs="맑은 고딕" w:hint="eastAsia" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t xml:space="preserve">매크로는 만들어서 적용하면 되리라 생각합니다 이런 것이 </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="맑은 고딕" w:eastAsia="맑은 고딕" w:hAnsi="맑은 고딕" w:cs="맑은 고딕" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>1</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="맑은 고딕" w:eastAsia="맑은 고딕" w:hAnsi="맑은 고딕" w:cs="맑은 고딕" w:hint="eastAsia" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t xml:space="preserve">만 </w:t>
+            </w:r>
+            <w:r w:rsidR="000F5247">
+                <w:rPr>
+                    <w:rFonts w:ascii="맑은 고딕" w:eastAsia="맑은 고딕" w:hAnsi="맑은 고딕" w:cs="맑은 고딕" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t xml:space="preserve">3천 </w:t>
+            </w:r>
+            <w:r w:rsidR="000F5247">
+                <w:rPr>
+                    <w:rFonts w:ascii="맑은 고딕" w:eastAsia="맑은 고딕" w:hAnsi="맑은 고딕" w:cs="맑은 고딕" w:hint="eastAsia" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>페이지 정도 됩니다.</w:t>
+            </w:r>
+            <w:r w:rsidR="000F5247">
+                <w:rPr>
+                    <w:rFonts w:ascii="맑은 고딕" w:eastAsia="맑은 고딕" w:hAnsi="맑은 고딕" w:cs="맑은 고딕" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t xml:space="preserve"> </w:t>
+            </w:r>
+            <w:r w:rsidR="000F5247">
+                <w:rPr>
+                    <w:rFonts w:ascii="맑은 고딕" w:eastAsia="맑은 고딕" w:hAnsi="맑은 고딕" w:cs="맑은 고딕" w:hint="eastAsia" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>페이지는 시간문제이고 가장 핵심은 매크로를 만드는 것입니다.</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="53C82A09" w14:textId="32469FC7" w:rsidR="000F5247" w:rsidRDefault="000F5247" w:rsidP="000F5247">
+            <w:pPr>
+                <w:widowControl w:val="0" />
+                <w:autoSpaceDE w:val="0" />
+                <w:autoSpaceDN w:val="0" />
+                <w:adjustRightInd w:val="0" />
+                <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+                <w:jc w:val="both" />
+                <w:rPr>
+                    <w:rFonts w:ascii="맑은 고딕" w:eastAsia="맑은 고딕" w:hAnsi="맑은 고딕" w:cs="맑은 고딕" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="맑은 고딕" w:eastAsia="맑은 고딕" w:hAnsi="맑은 고딕" w:cs="맑은 고딕" w:hint="eastAsia" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t xml:space="preserve">나는 아주 간단한 매크로를 만들어 사용합니다 그런데 폰트를 변경하는 것은 내가 만든 것이 아니고 이 폰트를 만든 회사가 만든 매크로인데 그 매크로는 매크로 프로그램이 있는 문서에 있습니다 </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="맑은 고딕" w:eastAsia="맑은 고딕" w:hAnsi="맑은 고딕" w:cs="맑은 고딕" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:br />
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="맑은 고딕" w:eastAsia="맑은 고딕" w:hAnsi="맑은 고딕" w:cs="맑은 고딕" w:hint="eastAsia" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>이전에 보낸 매크로를 적용해야 하는 문서를 지우셔도 됩니다.</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="맑은 고딕" w:eastAsia="맑은 고딕" w:hAnsi="맑은 고딕" w:cs="맑은 고딕" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t xml:space="preserve">  </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="맑은 고딕" w:eastAsia="맑은 고딕" w:hAnsi="맑은 고딕" w:cs="맑은 고딕" w:hint="eastAsia" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t xml:space="preserve">이것을 샘플로 </w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="맑은 고딕" w:eastAsia="맑은 고딕" w:hAnsi="맑은 고딕" w:cs="맑은 고딕" w:hint="eastAsia" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>사용하셔도됩닏</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="맑은 고딕" w:eastAsia="맑은 고딕" w:hAnsi="맑은 고딕" w:cs="맑은 고딕" w:hint="eastAsia" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>.</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="맑은 고딕" w:eastAsia="맑은 고딕" w:hAnsi="맑은 고딕" w:cs="맑은 고딕" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t xml:space="preserve"> </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="맑은 고딕" w:eastAsia="맑은 고딕" w:hAnsi="맑은 고딕" w:cs="맑은 고딕" w:hint="eastAsia" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t xml:space="preserve">그 이유는 이와 똑 같은 형태로 된 것이 총 </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="맑은 고딕" w:eastAsia="맑은 고딕" w:hAnsi="맑은 고딕" w:cs="맑은 고딕" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>13</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="맑은 고딕" w:eastAsia="맑은 고딕" w:hAnsi="맑은 고딕" w:cs="맑은 고딕" w:hint="eastAsia" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>천 페이지 정도 되기 때문입니다.</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="5A6C71FA" w14:textId="0D5D781D" w:rsidR="000F5247" w:rsidRDefault="000F5247" w:rsidP="000F5247">
+            <w:pPr>
+                <w:widowControl w:val="0" />
+                <w:autoSpaceDE w:val="0" />
+                <w:autoSpaceDN w:val="0" />
+                <w:adjustRightInd w:val="0" />
+                <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+                <w:jc w:val="both" />
+                <w:rPr>
+                    <w:rFonts w:ascii="맑은 고딕" w:eastAsia="맑은 고딕" w:hAnsi="맑은 고딕" w:cs="맑은 고딕" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w14:paraId="78CF8EA7" w14:textId="77777777" w:rsidR="00812855" w:rsidRDefault="000F5247" w:rsidP="000F5247">
+            <w:pPr>
+                <w:widowControl w:val="0" />
+                <w:autoSpaceDE w:val="0" />
+                <w:autoSpaceDN w:val="0" />
+                <w:adjustRightInd w:val="0" />
+                <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+                <w:rPr>
+                    <w:rFonts w:ascii="맑은 고딕" w:eastAsia="맑은 고딕" w:hAnsi="맑은 고딕" w:cs="맑은 고딕" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="맑은 고딕" w:eastAsia="맑은 고딕" w:hAnsi="맑은 고딕" w:cs="맑은 고딕" w:hint="eastAsia" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t xml:space="preserve">두 가지 방법이란 하나는 </w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="맑은 고딕" w:eastAsia="맑은 고딕" w:hAnsi="맑은 고딕" w:cs="맑은 고딕" w:hint="eastAsia" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>이런식으로</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="맑은 고딕" w:eastAsia="맑은 고딕" w:hAnsi="맑은 고딕" w:cs="맑은 고딕" w:hint="eastAsia" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t xml:space="preserve"> 폰트를 변경하는 것이고 하나는 프로그램 </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="맑은 고딕" w:eastAsia="맑은 고딕" w:hAnsi="맑은 고딕" w:cs="맑은 고딕" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>(</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="맑은 고딕" w:eastAsia="맑은 고딕" w:hAnsi="맑은 고딕" w:cs="맑은 고딕" w:hint="eastAsia" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>자체내에서 약간 조작해서 S</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="맑은 고딕" w:eastAsia="맑은 고딕" w:hAnsi="맑은 고딕" w:cs="맑은 고딕" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>BL Hebrew</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="맑은 고딕" w:eastAsia="맑은 고딕" w:hAnsi="맑은 고딕" w:cs="맑은 고딕" w:hint="eastAsia" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t xml:space="preserve"> 폰트로 파일을 만드는 것입니다.</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="맑은 고딕" w:eastAsia="맑은 고딕" w:hAnsi="맑은 고딕" w:cs="맑은 고딕" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t xml:space="preserve"> </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="맑은 고딕" w:eastAsia="맑은 고딕" w:hAnsi="맑은 고딕" w:cs="맑은 고딕" w:hint="eastAsia" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>후자의 방법이 쉽습니다.</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="맑은 고딕" w:eastAsia="맑은 고딕" w:hAnsi="맑은 고딕" w:cs="맑은 고딕" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t xml:space="preserve"> </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="맑은 고딕" w:eastAsia="맑은 고딕" w:hAnsi="맑은 고딕" w:cs="맑은 고딕" w:hint="eastAsia" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>영어로 된 사용자들의 포럼에 의하면 쉽게 된다고 하는데 나는 안되네요 그래서 좀 어려운 방법은 매크로 방법을</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="맑은 고딕" w:eastAsia="맑은 고딕" w:hAnsi="맑은 고딕" w:cs="맑은 고딕" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t xml:space="preserve"> </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="맑은 고딕" w:eastAsia="맑은 고딕" w:hAnsi="맑은 고딕" w:cs="맑은 고딕" w:hint="eastAsia" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t xml:space="preserve">사용할까 하다가 연락을 드리게 된 것입니다 </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="맑은 고딕" w:eastAsia="맑은 고딕" w:hAnsi="맑은 고딕" w:cs="맑은 고딕" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:br />
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="맑은 고딕" w:eastAsia="맑은 고딕" w:hAnsi="맑은 고딕" w:cs="맑은 고딕" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:br />
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="맑은 고딕" w:eastAsia="맑은 고딕" w:hAnsi="맑은 고딕" w:cs="맑은 고딕" w:hint="eastAsia" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>너무 무리하게 하시지는 마십시오.</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="맑은 고딕" w:eastAsia="맑은 고딕" w:hAnsi="맑은 고딕" w:cs="맑은 고딕" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t xml:space="preserve"> </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="맑은 고딕" w:eastAsia="맑은 고딕" w:hAnsi="맑은 고딕" w:cs="맑은 고딕" w:hint="eastAsia" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t xml:space="preserve">시간을 너무 </w:t>
+            </w:r>
+            <w:r w:rsidR="00812855">
+                <w:rPr>
+                    <w:rFonts w:ascii="맑은 고딕" w:eastAsia="맑은 고딕" w:hAnsi="맑은 고딕" w:cs="맑은 고딕" w:hint="eastAsia" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>투자하면 저가 지불할 돈도 없습니다.</w:t>
+            </w:r>
+            <w:r w:rsidR="00812855">
+                <w:rPr>
+                    <w:rFonts w:ascii="맑은 고딕" w:eastAsia="맑은 고딕" w:hAnsi="맑은 고딕" w:cs="맑은 고딕" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t xml:space="preserve"> </w:t>
+            </w:r>
+            <w:r w:rsidR="00812855">
+                <w:rPr>
+                    <w:rFonts w:ascii="맑은 고딕" w:eastAsia="맑은 고딕" w:hAnsi="맑은 고딕" w:cs="맑은 고딕" w:hint="eastAsia" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t xml:space="preserve">최악의 </w:t>
+            </w:r>
+            <w:proofErr w:type="gramStart" />
+            <w:r w:rsidR="00812855">
+                <w:rPr>
+                    <w:rFonts w:ascii="맑은 고딕" w:eastAsia="맑은 고딕" w:hAnsi="맑은 고딕" w:cs="맑은 고딕" w:hint="eastAsia" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t xml:space="preserve">경우엔 </w:t>
+            </w:r>
+            <w:r w:rsidR="00812855">
+                <w:rPr>
+                    <w:rFonts w:ascii="맑은 고딕" w:eastAsia="맑은 고딕" w:hAnsi="맑은 고딕" w:cs="맑은 고딕" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>.</w:t>
+            </w:r>
+            <w:r w:rsidR="00812855">
+                <w:rPr>
+                    <w:rFonts w:ascii="맑은 고딕" w:eastAsia="맑은 고딕" w:hAnsi="맑은 고딕" w:cs="맑은 고딕" w:hint="eastAsia" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>사전을</w:t>
+            </w:r>
+            <w:proofErr w:type="gramEnd" />
+            <w:r w:rsidR="00812855">
+                <w:rPr>
+                    <w:rFonts w:ascii="맑은 고딕" w:eastAsia="맑은 고딕" w:hAnsi="맑은 고딕" w:cs="맑은 고딕" w:hint="eastAsia" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t xml:space="preserve"> 이대로 즉 </w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:r w:rsidR="00812855">
+                <w:rPr>
+                    <w:rFonts w:ascii="맑은 고딕" w:eastAsia="맑은 고딕" w:hAnsi="맑은 고딕" w:cs="맑은 고딕" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>bwhebb</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd" />
+            <w:r w:rsidR="00812855">
+                <w:rPr>
+                    <w:rFonts w:ascii="맑은 고딕" w:eastAsia="맑은 고딕" w:hAnsi="맑은 고딕" w:cs="맑은 고딕" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t xml:space="preserve"> </w:t>
+            </w:r>
+            <w:r w:rsidR="00812855">
+                <w:rPr>
+                    <w:rFonts w:ascii="맑은 고딕" w:eastAsia="맑은 고딕" w:hAnsi="맑은 고딕" w:cs="맑은 고딕" w:hint="eastAsia" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>폰트로 사용하여서 만들면 되니까요.</w:t>
+            </w:r>
+            <w:r w:rsidR="00812855">
+                <w:rPr>
+                    <w:rFonts w:ascii="맑은 고딕" w:eastAsia="맑은 고딕" w:hAnsi="맑은 고딕" w:cs="맑은 고딕" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t xml:space="preserve"> </w:t>
+            </w:r>
+            <w:r w:rsidR="00812855">
+                <w:rPr>
+                    <w:rFonts w:ascii="맑은 고딕" w:eastAsia="맑은 고딕" w:hAnsi="맑은 고딕" w:cs="맑은 고딕" w:hint="eastAsia" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t xml:space="preserve">폰트를 </w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:r w:rsidR="00812855">
+                <w:rPr>
+                    <w:rFonts w:ascii="맑은 고딕" w:eastAsia="맑은 고딕" w:hAnsi="맑은 고딕" w:cs="맑은 고딕" w:hint="eastAsia" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>변경할려는</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd" />
+            <w:r w:rsidR="00812855">
+                <w:rPr>
+                    <w:rFonts w:ascii="맑은 고딕" w:eastAsia="맑은 고딕" w:hAnsi="맑은 고딕" w:cs="맑은 고딕" w:hint="eastAsia" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t xml:space="preserve"> 이유는 이 사전에 다른 곳에서도 파일로 사용될 가능성이 많습니다 그때 폰트가 호환이 안되면 문제가 또 발생되기 때문에 폰트를 변경하려고 합니다 감사합니다</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="55D5A06A" w14:textId="66E84C9A" w:rsidR="000F5247" w:rsidRDefault="000F5247" w:rsidP="000F5247">
+            <w:pPr>
+                <w:widowControl w:val="0" />
+                <w:autoSpaceDE w:val="0" />
+                <w:autoSpaceDN w:val="0" />
+                <w:adjustRightInd w:val="0" />
+                <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+                <w:rPr>
+                    <w:rFonts w:ascii="맑은 고딕" w:eastAsia="맑은 고딕" w:hAnsi="맑은 고딕" w:cs="맑은 고딕" w:hint="eastAsia" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="맑은 고딕" w:eastAsia="맑은 고딕" w:hAnsi="맑은 고딕" w:cs="맑은 고딕" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:br />
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="4030EB49" w14:textId="77777777" w:rsidR="000F5247" w:rsidRDefault="000F5247" w:rsidP="000F5247">
+            <w:pPr>
+                <w:widowControl w:val="0" />
+                <w:autoSpaceDE w:val="0" />
+                <w:autoSpaceDN w:val="0" />
+                <w:adjustRightInd w:val="0" />
+                <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+                <w:jc w:val="both" />
+                <w:rPr>
+                    <w:rFonts w:ascii="맑은 고딕" w:eastAsia="맑은 고딕" w:hAnsi="맑은 고딕" w:cs="맑은 고딕" w:hint="eastAsia" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w14:paraId="44BA6386" w14:textId="13694B1B" w:rsidR="00265FB2" w:rsidRPr="00FD5104" w:rsidRDefault="00265FB2" w:rsidP="00265FB2">
+            <w:pPr>
+                <w:widowControl w:val="0" />
+                <w:autoSpaceDE w:val="0" />
+                <w:autoSpaceDN w:val="0" />
+                <w:adjustRightInd w:val="0" />
+                <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+                <w:jc w:val="right" />
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Bwhebb" />
+                    <w:sz w:val="24" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>(@</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>ncfsa+</w:t>
+            </w:r>
+            <w:proofErr w:type="gramStart" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>SxxxExHxNxxRx</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>)</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Bwhebb" w:hAnsi="Bwhebb" w:cs="Bwhebb" />
+                    <w:sz w:val="36" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>#</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:proofErr w:type="gramEnd" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Bwhebb" w:hAnsi="Bwhebb" w:cs="Bwhebb" />
+                    <w:sz w:val="36" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>r,a</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Bwhebb" w:hAnsi="Bwhebb" w:cs="Bwhebb" />
+                    <w:sz w:val="36" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>,</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="3D88ED63" w14:textId="77777777" w:rsidR="00265FB2" w:rsidRPr="00FD5104" w:rsidRDefault="00265FB2" w:rsidP="00265FB2">
+            <w:pPr>
+                <w:widowControl w:val="0" />
+                <w:autoSpaceDE w:val="0" />
+                <w:autoSpaceDN w:val="0" />
+                <w:adjustRightInd w:val="0" />
+                <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+                <w:jc w:val="right" />
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Bwhebb" />
+                    <w:sz w:val="24" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00FD5104">
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Bwhebb" />
+                    <w:sz w:val="24" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>(@</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>Pa+</w:t>
+            </w:r>
+            <w:proofErr w:type="gramStart" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>SxxxExHxNxxRx</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>)</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Bwhebb" w:hAnsi="Bwhebb" w:cs="Bwhebb" />
+                    <w:sz w:val="36" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>h</w:t>
+            </w:r>
+            <w:proofErr w:type="gramEnd" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Bwhebb" w:hAnsi="Bwhebb" w:cs="Bwhebb" />
+                    <w:sz w:val="36" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>;</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="4907C369" w14:textId="77777777" w:rsidR="00265FB2" w:rsidRPr="00FD5104" w:rsidRDefault="00265FB2" w:rsidP="00265FB2">
+            <w:pPr>
+                <w:widowControl w:val="0" />
+                <w:autoSpaceDE w:val="0" />
+                <w:autoSpaceDN w:val="0" />
+                <w:adjustRightInd w:val="0" />
+                <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+                <w:jc w:val="right" />
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Bwhebb" />
+                    <w:sz w:val="24" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00FD5104">
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Bwhebb" />
+                    <w:sz w:val="24" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>(@</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>Po+</w:t>
+            </w:r>
+            <w:proofErr w:type="gramStart" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>SxxxExHaNxxRx</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>)</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Bwhebb" w:hAnsi="Bwhebb" w:cs="Bwhebb" />
+                    <w:sz w:val="36" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>tae</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd" />
+            <w:proofErr w:type="gramEnd" />
+        </w:p>
+        <w:p w14:paraId="49E061D2" w14:textId="77777777" w:rsidR="00265FB2" w:rsidRPr="00FD5104" w:rsidRDefault="00265FB2" w:rsidP="00265FB2">
+            <w:pPr>
+                <w:widowControl w:val="0" />
+                <w:autoSpaceDE w:val="0" />
+                <w:autoSpaceDN w:val="0" />
+                <w:adjustRightInd w:val="0" />
+                <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+                <w:jc w:val="right" />
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Bwhebb" />
+                    <w:sz w:val="24" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00FD5104">
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Bwhebb" />
+                    <w:sz w:val="24" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>(@</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>Pc+</w:t>
+            </w:r>
+            <w:proofErr w:type="gramStart" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>SxxxExHxNxxRx</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>)</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Bwhebb" w:hAnsi="Bwhebb" w:cs="Bwhebb" />
+                    <w:sz w:val="36" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>w</w:t>
+            </w:r>
+            <w:proofErr w:type="gramEnd" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Bwhebb" w:hAnsi="Bwhebb" w:cs="Bwhebb" />
+                    <w:sz w:val="36" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>&gt;</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="4015847D" w14:textId="77777777" w:rsidR="00265FB2" w:rsidRPr="00FD5104" w:rsidRDefault="00265FB2" w:rsidP="00265FB2">
+            <w:pPr>
+                <w:widowControl w:val="0" />
+                <w:autoSpaceDE w:val="0" />
+                <w:autoSpaceDN w:val="0" />
+                <w:adjustRightInd w:val="0" />
+                <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+                <w:jc w:val="right" />
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Bwhebb" />
+                    <w:sz w:val="24" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00FD5104">
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Bwhebb" />
+                    <w:sz w:val="24" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>(@</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>ncmpa+</w:t>
+            </w:r>
+            <w:proofErr w:type="gramStart" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>SxxxExHxNxxRx</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>)</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Bwhebb" w:hAnsi="Bwhebb" w:cs="Bwhebb" />
+                    <w:sz w:val="36" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>~</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:proofErr w:type="gramEnd" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Bwhebb" w:hAnsi="Bwhebb" w:cs="Bwhebb" />
+                    <w:sz w:val="36" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>yIm;v</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Bwhebb" w:hAnsi="Bwhebb" w:cs="Bwhebb" />
+                    <w:sz w:val="36" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>'</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="14888907" w14:textId="77777777" w:rsidR="00265FB2" w:rsidRPr="00FD5104" w:rsidRDefault="00265FB2" w:rsidP="00265FB2">
+            <w:pPr>
+                <w:widowControl w:val="0" />
+                <w:autoSpaceDE w:val="0" />
+                <w:autoSpaceDN w:val="0" />
+                <w:adjustRightInd w:val="0" />
+                <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+                <w:jc w:val="right" />
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Bwhebb" />
+                    <w:sz w:val="24" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00FD5104">
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Bwhebb" />
+                    <w:sz w:val="24" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>(@</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>Pa+</w:t>
+            </w:r>
+            <w:proofErr w:type="gramStart" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>SxxxExHxNxxRx</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>)</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Bwhebb" w:hAnsi="Bwhebb" w:cs="Bwhebb" />
+                    <w:sz w:val="36" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>h</w:t>
+            </w:r>
+            <w:proofErr w:type="gramEnd" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Bwhebb" w:hAnsi="Bwhebb" w:cs="Bwhebb" />
+                    <w:sz w:val="36" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>;</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="54FD8E4F" w14:textId="77777777" w:rsidR="00265FB2" w:rsidRPr="00FD5104" w:rsidRDefault="00265FB2" w:rsidP="00265FB2">
+            <w:pPr>
+                <w:widowControl w:val="0" />
+                <w:autoSpaceDE w:val="0" />
+                <w:autoSpaceDN w:val="0" />
+                <w:adjustRightInd w:val="0" />
+                <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+                <w:jc w:val="right" />
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Bwhebb" />
+                    <w:sz w:val="24" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00FD5104">
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Bwhebb" />
+                    <w:sz w:val="24" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>(@</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>Po+</w:t>
+            </w:r>
+            <w:proofErr w:type="gramStart" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>SxxxExHaNxxRx</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>)</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Bwhebb" w:hAnsi="Bwhebb" w:cs="Bwhebb" />
+                    <w:sz w:val="36" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>tae</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd" />
+            <w:proofErr w:type="gramEnd" />
+        </w:p>
+        <w:p w14:paraId="1E495274" w14:textId="77777777" w:rsidR="00265FB2" w:rsidRPr="00FD5104" w:rsidRDefault="00265FB2" w:rsidP="00265FB2">
+            <w:pPr>
+                <w:widowControl w:val="0" />
+                <w:autoSpaceDE w:val="0" />
+                <w:autoSpaceDN w:val="0" />
+                <w:adjustRightInd w:val="0" />
+                <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+                <w:jc w:val="right" />
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Bwhebb" />
+                    <w:sz w:val="24" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00FD5104">
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Bwhebb" />
+                    <w:sz w:val="24" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>(@</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>ncmpa+</w:t>
+            </w:r>
+            <w:proofErr w:type="gramStart" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>SxxxExHxNxxRx</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>)</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Bwhebb" w:hAnsi="Bwhebb" w:cs="Bwhebb" />
+                    <w:sz w:val="36" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>~</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:proofErr w:type="gramEnd" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Bwhebb" w:hAnsi="Bwhebb" w:cs="Bwhebb" />
+                    <w:sz w:val="36" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>yhil</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Bwhebb" w:hAnsi="Bwhebb" w:cs="Bwhebb" />
+                    <w:sz w:val="36" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>{a/</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="7DECF93D" w14:textId="77777777" w:rsidR="00265FB2" w:rsidRPr="00FD5104" w:rsidRDefault="00265FB2" w:rsidP="00265FB2">
+            <w:pPr>
+                <w:widowControl w:val="0" />
+                <w:autoSpaceDE w:val="0" />
+                <w:autoSpaceDN w:val="0" />
+                <w:adjustRightInd w:val="0" />
+                <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+                <w:jc w:val="right" />
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Bwhebb" />
+                    <w:sz w:val="24" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00FD5104">
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Bwhebb" />
+                    <w:sz w:val="24" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>(@</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>vqp3ms+</w:t>
+            </w:r>
+            <w:proofErr w:type="gramStart" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>SxxxxJxCxAxExHaNxxRx)</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Bwhebb" w:hAnsi="Bwhebb" w:cs="Bwhebb" />
+                    <w:sz w:val="36" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>arb</w:t>
+            </w:r>
+            <w:proofErr w:type="gramEnd" />
+        </w:p>
+        <w:p w14:paraId="072295D8" w14:textId="77777777" w:rsidR="00265FB2" w:rsidRPr="00FD5104" w:rsidRDefault="00265FB2" w:rsidP="00265FB2">
+            <w:pPr>
+                <w:widowControl w:val="0" />
+                <w:autoSpaceDE w:val="0" />
+                <w:autoSpaceDN w:val="0" />
+                <w:adjustRightInd w:val="0" />
+                <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+                <w:jc w:val="right" />
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Bwhebb" />
+                    <w:sz w:val="24" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00FD5104">
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Bwhebb" />
+                    <w:sz w:val="24" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>(@</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>ncfsa+</w:t>
+            </w:r>
+            <w:proofErr w:type="gramStart" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>SxxxExHxNxxRx</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>)</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Bwhebb" w:hAnsi="Bwhebb" w:cs="Bwhebb" />
+                    <w:sz w:val="36" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>tyviare</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd" />
+            <w:proofErr w:type="gramEnd" />
+        </w:p>
+        <w:p w14:paraId="54DB3C89" w14:textId="77777777" w:rsidR="00265FB2" w:rsidRPr="00FD5104" w:rsidRDefault="00265FB2" w:rsidP="00265FB2">
+            <w:pPr>
+                <w:widowControl w:val="0" />
+                <w:autoSpaceDE w:val="0" />
+                <w:autoSpaceDN w:val="0" />
+                <w:adjustRightInd w:val="0" />
+                <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+                <w:jc w:val="right" />
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Bwhebb" />
+                    <w:sz w:val="24" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00FD5104">
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Bwhebb" />
+                    <w:sz w:val="24" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>(@</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>Pp+</w:t>
+            </w:r>
+            <w:proofErr w:type="gramStart" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>SxxxExHxNxxRx</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>)</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Bwhebb" w:hAnsi="Bwhebb" w:cs="Bwhebb" />
+                    <w:sz w:val="36" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>B.</w:t>
+            </w:r>
+            <w:proofErr w:type="gramEnd" />
+        </w:p>
+        <w:p w14:paraId="2A4F28E3" w14:textId="77777777" w:rsidR="00265FB2" w:rsidRDefault="00265FB2" w:rsidP="00265FB2">
+            <w:pPr>
+                <w:widowControl w:val="0" />
+                <w:autoSpaceDE w:val="0" />
+                <w:autoSpaceDN w:val="0" />
+                <w:adjustRightInd w:val="0" />
+                <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+                <w:jc w:val="right" />
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00FD5104">
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Bwhebb" />
+                    <w:sz w:val="24" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t xml:space="preserve"> </w:t>
+            </w:r>
+            <w:r w:rsidRPr="00FD5104">
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="24" />
+                    <w:szCs w:val="24" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t xml:space="preserve">Gen </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="24" />
+                    <w:szCs w:val="24" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>1:1</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="39E0645B" w14:textId="77777777" w:rsidR="00265FB2" w:rsidRPr="00FD5104" w:rsidRDefault="00265FB2" w:rsidP="00265FB2">
+            <w:pPr>
+                <w:widowControl w:val="0" />
+                <w:autoSpaceDE w:val="0" />
+                <w:autoSpaceDN w:val="0" />
+                <w:adjustRightInd w:val="0" />
+                <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+                <w:jc w:val="right" />
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Bwhebb" />
+                    <w:sz w:val="24" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>(@</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>ncmpa+</w:t>
+            </w:r>
+            <w:proofErr w:type="gramStart" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>SxxxExHxNxxRx</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>)</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Bwhebb" w:hAnsi="Bwhebb" w:cs="Bwhebb" />
+                    <w:sz w:val="36" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>~</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:proofErr w:type="gramEnd" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Bwhebb" w:hAnsi="Bwhebb" w:cs="Bwhebb" />
+                    <w:sz w:val="36" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>yIm</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Bwhebb" w:hAnsi="Bwhebb" w:cs="Bwhebb" />
+                    <w:sz w:val="36" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>;</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="7076D35E" w14:textId="77777777" w:rsidR="00265FB2" w:rsidRPr="00FD5104" w:rsidRDefault="00265FB2" w:rsidP="00265FB2">
+            <w:pPr>
+                <w:widowControl w:val="0" />
+                <w:autoSpaceDE w:val="0" />
+                <w:autoSpaceDN w:val="0" />
+                <w:adjustRightInd w:val="0" />
+                <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+                <w:jc w:val="right" />
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Bwhebb" />
+                    <w:sz w:val="24" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00FD5104">
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Bwhebb" />
+                    <w:sz w:val="24" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>(@</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>Pa+</w:t>
+            </w:r>
+            <w:proofErr w:type="gramStart" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>SxxxExHxNxxRx</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>)</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Bwhebb" w:hAnsi="Bwhebb" w:cs="Bwhebb" />
+                    <w:sz w:val="36" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>h</w:t>
+            </w:r>
+            <w:proofErr w:type="gramEnd" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Bwhebb" w:hAnsi="Bwhebb" w:cs="Bwhebb" />
+                    <w:sz w:val="36" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>;</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="1997B4F6" w14:textId="77777777" w:rsidR="00265FB2" w:rsidRPr="00FD5104" w:rsidRDefault="00265FB2" w:rsidP="00265FB2">
+            <w:pPr>
+                <w:widowControl w:val="0" />
+                <w:autoSpaceDE w:val="0" />
+                <w:autoSpaceDN w:val="0" />
+                <w:adjustRightInd w:val="0" />
+                <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+                <w:jc w:val="right" />
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Bwhebb" />
+                    <w:sz w:val="24" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00FD5104">
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Bwhebb" />
+                    <w:sz w:val="24" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>(@</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>ncbpc+</w:t>
+            </w:r>
+            <w:proofErr w:type="gramStart" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>SxxxExHxNxxRx</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>)</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Bwhebb" w:hAnsi="Bwhebb" w:cs="Bwhebb" />
+                    <w:sz w:val="36" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>hn</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd" />
+            <w:proofErr w:type="gramEnd" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Bwhebb" w:hAnsi="Bwhebb" w:cs="Bwhebb" />
+                    <w:sz w:val="36" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>&lt;P'</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="6C0605ED" w14:textId="77777777" w:rsidR="00265FB2" w:rsidRPr="00FD5104" w:rsidRDefault="00265FB2" w:rsidP="00265FB2">
+            <w:pPr>
+                <w:widowControl w:val="0" />
+                <w:autoSpaceDE w:val="0" />
+                <w:autoSpaceDN w:val="0" />
+                <w:adjustRightInd w:val="0" />
+                <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+                <w:jc w:val="right" />
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Bwhebb" />
+                    <w:sz w:val="24" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00FD5104">
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Bwhebb" />
+                    <w:sz w:val="24" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>(@</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>Pp+SxxxExHbNxxRx</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd" />
+            <w:proofErr w:type="gramStart" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>!)</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Bwhebb" w:hAnsi="Bwhebb" w:cs="Bwhebb" />
+                    <w:sz w:val="36" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>l</w:t>
+            </w:r>
+            <w:proofErr w:type="gramEnd" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Bwhebb" w:hAnsi="Bwhebb" w:cs="Bwhebb" />
+                    <w:sz w:val="36" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>[;</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="3E1E36A8" w14:textId="77777777" w:rsidR="00265FB2" w:rsidRPr="00FD5104" w:rsidRDefault="00265FB2" w:rsidP="00265FB2">
+            <w:pPr>
+                <w:widowControl w:val="0" />
+                <w:autoSpaceDE w:val="0" />
+                <w:autoSpaceDN w:val="0" />
+                <w:adjustRightInd w:val="0" />
+                <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+                <w:jc w:val="right" />
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Bwhebb" />
+                    <w:sz w:val="24" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00FD5104">
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Bwhebb" />
+                    <w:sz w:val="24" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>(@</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>vpPfsa+</w:t>
+            </w:r>
+            <w:proofErr w:type="gramStart" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>SxxxxHxNxxRx</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>)</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Bwhebb" w:hAnsi="Bwhebb" w:cs="Bwhebb" />
+                    <w:sz w:val="36" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>@</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:proofErr w:type="gramEnd" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Bwhebb" w:hAnsi="Bwhebb" w:cs="Bwhebb" />
+                    <w:sz w:val="36" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>xr</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd" />
+        </w:p>
+        <w:p w14:paraId="282391B1" w14:textId="77777777" w:rsidR="00265FB2" w:rsidRPr="00FD5104" w:rsidRDefault="00265FB2" w:rsidP="00265FB2">
+            <w:pPr>
+                <w:widowControl w:val="0" />
+                <w:autoSpaceDE w:val="0" />
+                <w:autoSpaceDN w:val="0" />
+                <w:adjustRightInd w:val="0" />
+                <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+                <w:jc w:val="right" />
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Bwhebb" />
+                    <w:sz w:val="24" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00FD5104">
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Bwhebb" />
+                    <w:sz w:val="24" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>(@</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>ncmpa+</w:t>
+            </w:r>
+            <w:proofErr w:type="gramStart" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>SxxxExHxNxxRx</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>)</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Bwhebb" w:hAnsi="Bwhebb" w:cs="Bwhebb" />
+                    <w:sz w:val="36" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>~</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:proofErr w:type="gramEnd" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Bwhebb" w:hAnsi="Bwhebb" w:cs="Bwhebb" />
+                    <w:sz w:val="36" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>yhil</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Bwhebb" w:hAnsi="Bwhebb" w:cs="Bwhebb" />
+                    <w:sz w:val="36" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>{a/</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="7798F1CA" w14:textId="77777777" w:rsidR="00265FB2" w:rsidRPr="00FD5104" w:rsidRDefault="00265FB2" w:rsidP="00265FB2">
+            <w:pPr>
+                <w:widowControl w:val="0" />
+                <w:autoSpaceDE w:val="0" />
+                <w:autoSpaceDN w:val="0" />
+                <w:adjustRightInd w:val="0" />
+                <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+                <w:jc w:val="right" />
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Bwhebb" />
+                    <w:sz w:val="24" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00FD5104">
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Bwhebb" />
+                    <w:sz w:val="24" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:lastRenderedPageBreak />
+                <w:t>(@</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>ncfsc+</w:t>
+            </w:r>
+            <w:proofErr w:type="gramStart" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>SxxxExHxNxxRx</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>)</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Bwhebb" w:hAnsi="Bwhebb" w:cs="Bwhebb" />
+                    <w:sz w:val="36" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>x</w:t>
+            </w:r>
+            <w:proofErr w:type="gramEnd" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Bwhebb" w:hAnsi="Bwhebb" w:cs="Bwhebb" />
+                    <w:sz w:val="36" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>;Wr</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd" />
+        </w:p>
+        <w:p w14:paraId="4180BEF4" w14:textId="77777777" w:rsidR="00265FB2" w:rsidRPr="00FD5104" w:rsidRDefault="00265FB2" w:rsidP="00265FB2">
+            <w:pPr>
+                <w:widowControl w:val="0" />
+                <w:autoSpaceDE w:val="0" />
+                <w:autoSpaceDN w:val="0" />
+                <w:adjustRightInd w:val="0" />
+                <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+                <w:jc w:val="right" />
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Bwhebb" />
+                    <w:sz w:val="24" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00FD5104">
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Bwhebb" />
+                    <w:sz w:val="24" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>(@</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>Pc+</w:t>
+            </w:r>
+            <w:proofErr w:type="gramStart" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>SxxxExHxNxxRx</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>)</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Bwhebb" w:hAnsi="Bwhebb" w:cs="Bwhebb" />
+                    <w:sz w:val="36" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>w</w:t>
+            </w:r>
+            <w:proofErr w:type="gramEnd" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Bwhebb" w:hAnsi="Bwhebb" w:cs="Bwhebb" />
+                    <w:sz w:val="36" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>&gt;</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="032A7820" w14:textId="77777777" w:rsidR="00265FB2" w:rsidRPr="00FD5104" w:rsidRDefault="00265FB2" w:rsidP="00265FB2">
+            <w:pPr>
+                <w:widowControl w:val="0" />
+                <w:autoSpaceDE w:val="0" />
+                <w:autoSpaceDN w:val="0" />
+                <w:adjustRightInd w:val="0" />
+                <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+                <w:jc w:val="right" />
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Bwhebb" />
+                    <w:sz w:val="24" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00FD5104">
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Bwhebb" />
+                    <w:sz w:val="24" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>(@</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>ncbsa+</w:t>
+            </w:r>
+            <w:proofErr w:type="gramStart" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>SxxxExHxNxxRx</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>)</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Bwhebb" w:hAnsi="Bwhebb" w:cs="Bwhebb" />
+                    <w:sz w:val="36" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>~</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:proofErr w:type="gramEnd" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Bwhebb" w:hAnsi="Bwhebb" w:cs="Bwhebb" />
+                    <w:sz w:val="36" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>AhT</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Bwhebb" w:hAnsi="Bwhebb" w:cs="Bwhebb" />
+                    <w:sz w:val="36" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>.</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="0F4F232B" w14:textId="77777777" w:rsidR="00265FB2" w:rsidRPr="00FD5104" w:rsidRDefault="00265FB2" w:rsidP="00265FB2">
+            <w:pPr>
+                <w:widowControl w:val="0" />
+                <w:autoSpaceDE w:val="0" />
+                <w:autoSpaceDN w:val="0" />
+                <w:adjustRightInd w:val="0" />
+                <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+                <w:jc w:val="right" />
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Bwhebb" />
+                    <w:sz w:val="24" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00FD5104">
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Bwhebb" />
+                    <w:sz w:val="24" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>(@</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>ncbpc+</w:t>
+            </w:r>
+            <w:proofErr w:type="gramStart" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>SxxxExHxNxxRx</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>)</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Bwhebb" w:hAnsi="Bwhebb" w:cs="Bwhebb" />
+                    <w:sz w:val="36" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>hn</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd" />
+            <w:proofErr w:type="gramEnd" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Bwhebb" w:hAnsi="Bwhebb" w:cs="Bwhebb" />
+                    <w:sz w:val="36" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>&lt;P'</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="6A04DD4C" w14:textId="77777777" w:rsidR="00265FB2" w:rsidRPr="00FD5104" w:rsidRDefault="00265FB2" w:rsidP="00265FB2">
+            <w:pPr>
+                <w:widowControl w:val="0" />
+                <w:autoSpaceDE w:val="0" />
+                <w:autoSpaceDN w:val="0" />
+                <w:adjustRightInd w:val="0" />
+                <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+                <w:jc w:val="right" />
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Bwhebb" />
+                    <w:sz w:val="24" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00FD5104">
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Bwhebb" />
+                    <w:sz w:val="24" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>(@</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>Pp+SxxxExHbNxxRx</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd" />
+            <w:proofErr w:type="gramStart" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>!)</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Bwhebb" w:hAnsi="Bwhebb" w:cs="Bwhebb" />
+                    <w:sz w:val="36" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>l</w:t>
+            </w:r>
+            <w:proofErr w:type="gramEnd" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Bwhebb" w:hAnsi="Bwhebb" w:cs="Bwhebb" />
+                    <w:sz w:val="36" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>[;</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="57AA91B0" w14:textId="77777777" w:rsidR="00265FB2" w:rsidRPr="00FD5104" w:rsidRDefault="00265FB2" w:rsidP="00265FB2">
+            <w:pPr>
+                <w:widowControl w:val="0" />
+                <w:autoSpaceDE w:val="0" />
+                <w:autoSpaceDN w:val="0" />
+                <w:adjustRightInd w:val="0" />
+                <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+                <w:jc w:val="right" />
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Bwhebb" />
+                    <w:sz w:val="24" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00FD5104">
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Bwhebb" />
+                    <w:sz w:val="24" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>(@</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>ncmsa+</w:t>
+            </w:r>
+            <w:proofErr w:type="gramStart" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>SxxxExHxNxxRx</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>)</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Bwhebb" w:hAnsi="Bwhebb" w:cs="Bwhebb" />
+                    <w:sz w:val="36" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>%</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:proofErr w:type="gramEnd" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Bwhebb" w:hAnsi="Bwhebb" w:cs="Bwhebb" />
+                    <w:sz w:val="36" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>v,xo</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd" />
+        </w:p>
+        <w:p w14:paraId="45A3E80D" w14:textId="77777777" w:rsidR="00265FB2" w:rsidRPr="00FD5104" w:rsidRDefault="00265FB2" w:rsidP="00265FB2">
+            <w:pPr>
+                <w:widowControl w:val="0" />
+                <w:autoSpaceDE w:val="0" />
+                <w:autoSpaceDN w:val="0" />
+                <w:adjustRightInd w:val="0" />
+                <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+                <w:jc w:val="right" />
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Bwhebb" />
+                    <w:sz w:val="24" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00FD5104">
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Bwhebb" />
+                    <w:sz w:val="24" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>(@</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>Pc+</w:t>
+            </w:r>
+            <w:proofErr w:type="gramStart" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>SxxxExHxNxxRx</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>)</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Bwhebb" w:hAnsi="Bwhebb" w:cs="Bwhebb" />
+                    <w:sz w:val="36" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>w</w:t>
+            </w:r>
+            <w:proofErr w:type="gramEnd" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Bwhebb" w:hAnsi="Bwhebb" w:cs="Bwhebb" />
+                    <w:sz w:val="36" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>&gt;</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="3C0A0FC4" w14:textId="77777777" w:rsidR="00265FB2" w:rsidRPr="00FD5104" w:rsidRDefault="00265FB2" w:rsidP="00265FB2">
+            <w:pPr>
+                <w:widowControl w:val="0" />
+                <w:autoSpaceDE w:val="0" />
+                <w:autoSpaceDN w:val="0" />
+                <w:adjustRightInd w:val="0" />
+                <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+                <w:jc w:val="right" />
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Bwhebb" />
+                    <w:sz w:val="24" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00FD5104">
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Bwhebb" />
+                    <w:sz w:val="24" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>(@</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>ncmsa+</w:t>
+            </w:r>
+            <w:proofErr w:type="gramStart" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>SxxxExHxNxxRx</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>)</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Bwhebb" w:hAnsi="Bwhebb" w:cs="Bwhebb" />
+                    <w:sz w:val="36" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>WhBo</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd" />
+            <w:proofErr w:type="gramEnd" />
+        </w:p>
+        <w:p w14:paraId="690BB242" w14:textId="77777777" w:rsidR="00265FB2" w:rsidRPr="00FD5104" w:rsidRDefault="00265FB2" w:rsidP="00265FB2">
+            <w:pPr>
+                <w:widowControl w:val="0" />
+                <w:autoSpaceDE w:val="0" />
+                <w:autoSpaceDN w:val="0" />
+                <w:adjustRightInd w:val="0" />
+                <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+                <w:jc w:val="right" />
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Bwhebb" />
+                    <w:sz w:val="24" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00FD5104">
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Bwhebb" />
+                    <w:sz w:val="24" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>(@</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>Pc+</w:t>
+            </w:r>
+            <w:proofErr w:type="gramStart" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>SxxxExHxNxxRx</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>)</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Bwhebb" w:hAnsi="Bwhebb" w:cs="Bwhebb" />
+                    <w:sz w:val="36" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>w</w:t>
+            </w:r>
+            <w:proofErr w:type="gramEnd" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Bwhebb" w:hAnsi="Bwhebb" w:cs="Bwhebb" />
+                    <w:sz w:val="36" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>&gt;</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="00C288F0" w14:textId="77777777" w:rsidR="00265FB2" w:rsidRPr="00FD5104" w:rsidRDefault="00265FB2" w:rsidP="00265FB2">
+            <w:pPr>
+                <w:widowControl w:val="0" />
+                <w:autoSpaceDE w:val="0" />
+                <w:autoSpaceDN w:val="0" />
+                <w:adjustRightInd w:val="0" />
+                <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+                <w:jc w:val="right" />
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Bwhebb" />
+                    <w:sz w:val="24" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00FD5104">
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Bwhebb" />
+                    <w:sz w:val="24" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>(@</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>ncmsa+</w:t>
+            </w:r>
+            <w:proofErr w:type="gramStart" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>SxxxExHxNxxRx</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>)</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Bwhebb" w:hAnsi="Bwhebb" w:cs="Bwhebb" />
+                    <w:sz w:val="36" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>WhTo</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd" />
+            <w:proofErr w:type="gramEnd" />
+        </w:p>
+        <w:p w14:paraId="420C1570" w14:textId="77777777" w:rsidR="00265FB2" w:rsidRPr="00FD5104" w:rsidRDefault="00265FB2" w:rsidP="00265FB2">
+            <w:pPr>
+                <w:widowControl w:val="0" />
+                <w:autoSpaceDE w:val="0" />
+                <w:autoSpaceDN w:val="0" />
+                <w:adjustRightInd w:val="0" />
+                <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+                <w:jc w:val="right" />
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Bwhebb" />
+                    <w:sz w:val="24" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00FD5104">
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Bwhebb" />
+                    <w:sz w:val="24" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>(@</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>vqp3fs+</w:t>
+            </w:r>
+            <w:proofErr w:type="gramStart" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>SxxxxJxCxAxExHxNxxRx)</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Bwhebb" w:hAnsi="Bwhebb" w:cs="Bwhebb" />
+                    <w:sz w:val="36" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>hyh</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd" />
+            <w:proofErr w:type="gramEnd" />
+        </w:p>
+        <w:p w14:paraId="649F30A5" w14:textId="77777777" w:rsidR="00265FB2" w:rsidRPr="00FD5104" w:rsidRDefault="00265FB2" w:rsidP="00265FB2">
+            <w:pPr>
+                <w:widowControl w:val="0" />
+                <w:autoSpaceDE w:val="0" />
+                <w:autoSpaceDN w:val="0" />
+                <w:adjustRightInd w:val="0" />
+                <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+                <w:jc w:val="right" />
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Bwhebb" />
+                    <w:sz w:val="24" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00FD5104">
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Bwhebb" />
+                    <w:sz w:val="24" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>(@</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>ncfsa+</w:t>
+            </w:r>
+            <w:proofErr w:type="gramStart" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>SxxxExHxNxxRx</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>)</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Bwhebb" w:hAnsi="Bwhebb" w:cs="Bwhebb" />
+                    <w:sz w:val="36" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>#</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:proofErr w:type="gramEnd" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Bwhebb" w:hAnsi="Bwhebb" w:cs="Bwhebb" />
+                    <w:sz w:val="36" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>r,a</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Bwhebb" w:hAnsi="Bwhebb" w:cs="Bwhebb" />
+                    <w:sz w:val="36" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>,</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="4A1A0FC5" w14:textId="77777777" w:rsidR="00265FB2" w:rsidRPr="00FD5104" w:rsidRDefault="00265FB2" w:rsidP="00265FB2">
+            <w:pPr>
+                <w:widowControl w:val="0" />
+                <w:autoSpaceDE w:val="0" />
+                <w:autoSpaceDN w:val="0" />
+                <w:adjustRightInd w:val="0" />
+                <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+                <w:jc w:val="right" />
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Bwhebb" />
+                    <w:sz w:val="24" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00FD5104">
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Bwhebb" />
+                    <w:sz w:val="24" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>(@</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>Pa+</w:t>
+            </w:r>
+            <w:proofErr w:type="gramStart" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>SxxxExHxNxxRx</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>)</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Bwhebb" w:hAnsi="Bwhebb" w:cs="Bwhebb" />
+                    <w:sz w:val="36" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>h</w:t>
+            </w:r>
+            <w:proofErr w:type="gramEnd" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Bwhebb" w:hAnsi="Bwhebb" w:cs="Bwhebb" />
+                    <w:sz w:val="36" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>;</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="64DBCCA2" w14:textId="77777777" w:rsidR="00265FB2" w:rsidRPr="00FD5104" w:rsidRDefault="00265FB2" w:rsidP="00265FB2">
+            <w:pPr>
+                <w:widowControl w:val="0" />
+                <w:autoSpaceDE w:val="0" />
+                <w:autoSpaceDN w:val="0" />
+                <w:adjustRightInd w:val="0" />
+                <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+                <w:jc w:val="right" />
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Bwhebb" />
+                    <w:sz w:val="24" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00FD5104">
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Bwhebb" />
+                    <w:sz w:val="24" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>(@</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>Pc+</w:t>
+            </w:r>
+            <w:proofErr w:type="gramStart" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>SxxxExHxNxxRx</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>)</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Bwhebb" w:hAnsi="Bwhebb" w:cs="Bwhebb" />
+                    <w:sz w:val="36" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>w</w:t>
+            </w:r>
+            <w:proofErr w:type="gramEnd" />
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Bwhebb" w:hAnsi="Bwhebb" w:cs="Bwhebb" />
+                    <w:sz w:val="36" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>&gt;</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="5F465B69" w14:textId="77777777" w:rsidR="00265FB2" w:rsidRDefault="00265FB2" w:rsidP="00265FB2">
+            <w:pPr>
+                <w:widowControl w:val="0" />
+                <w:autoSpaceDE w:val="0" />
+                <w:autoSpaceDN w:val="0" />
+                <w:adjustRightInd w:val="0" />
+                <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+                <w:jc w:val="right" />
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="20" />
+                    <w:szCs w:val="20" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00FD5104">
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Bwhebb" />
+                    <w:sz w:val="24" />
+                    <w:szCs w:val="36" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t xml:space="preserve"> </w:t>
+            </w:r>
+            <w:r w:rsidRPr="00FD5104">
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="24" />
+                    <w:szCs w:val="24" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t xml:space="preserve">Gen </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                    <w:sz w:val="24" />
+                    <w:szCs w:val="24" />
+                    <w:lang w:val="en-US" w:bidi="he-IL" />
+                </w:rPr>
+                <w:t>1:2</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="292DAEF3" w14:textId="77777777" w:rsidR="00EE3BC1" w:rsidRDefault="00EE3BC1" />
+        <w:sectPr w:rsidR="00EE3BC1" w:rsidSect="00C94D51">
+            <w:pgSz w:w="11906" w:h="16838" />
+            <w:pgMar w:top="1701" w:right="1440" w:bottom="1440" w:left="1440" w:header="708" w:footer="708" w:gutter="0" />
+            <w:cols w:space="708" />
+            <w:docGrid w:linePitch="360" />
+        </w:sectPr>
+    </w:body>
+</w:document>
